@@ -1,4 +1,4 @@
 exo-juzumaps
 ============
 
-Integration eXo Juzu frame work with Ajax
+Make a google maps example from location by using eXo Juzu Portlet
